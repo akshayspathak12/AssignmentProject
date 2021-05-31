@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title> Student Dashboard</title>
+</head>
+<body>
+
+<center>
+			
+			<h2>Student Noticeboard</h2>
+
+		<a href = "AllAssignment"> <h2>Click Here to See All Assignment</h2> </a>
+	
+	</center>
+</body>
+</html>
